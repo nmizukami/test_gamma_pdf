@@ -1,0 +1,5 @@
+&HSLOPE
+  fshape = 2.0
+  tscale = 2.0 
+  dt     = 3600 
+/
