@@ -12,7 +12,7 @@ To compile,
 
 2. cp Makefile Makefile.local (so git does not track your personal makefile)
 
-3. edit Makefile.local for FC, EXE, F_MASTER (see inline comments in Makefile for details)
+3. edit Makefile.local for `FC`, `EXE`, `F_MASTER` (see inline comments in Makefile for details)
 
 4. make -f Makefile.local
 
